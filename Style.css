@@ -1,0 +1,27 @@
+body {
+    background-color: hsl(233, 47%,7%);
+}
+div {
+    clear: left;
+    background-color: hsl(244, 38%, 16%);
+}
+h1, th {
+    color: hsl( 0, 0%, 100%);
+    font-weight:700px;
+}
+p, td {
+    color: hsla(0, 0%, 100%, 0.6);
+    font-size: 15px;
+    font-weight: 400;
+}
+th{
+    text-align: left;
+}
+
+.picture {
+    float: right;
+}
+.text {
+    overflow: auto;
+    height: 446px;
+}
